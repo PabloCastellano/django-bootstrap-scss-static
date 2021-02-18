@@ -1,0 +1,1 @@
+# django-bootstrap-scss-static
